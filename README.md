@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alisaker-dev
 - 👀 I’m interested in coding
-- 🌱 I’m currently student
 - 📫 How to reach me alisaker0412@gmail.com
 
 <!---
